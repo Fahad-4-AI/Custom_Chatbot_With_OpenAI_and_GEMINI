@@ -55,19 +55,6 @@ Ensure you have Python installed. Use `pip` to install the required dependencies
 - **MongoDB:** Fetches data from database.
 
 
-
-# Assigned Team:
-### Project Manager:
-- Asma Shoukat
-
-### Team Leads:
-- Abdullah Waseem
-- Muhammad Bial
-
-### Data Scientists:
-- Zohaib Khan
-- Fahad Ali
-
 ## Acknowledgments
 This project is inspired by the capabilities of OpenAI's GPT-3.5 model and aims to demonstrate how it can be utilized in email-based conversational systems.
 
